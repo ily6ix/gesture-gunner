@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Gunner: Neon Strike",
+  "description": "A high-octane arcade shooter controlled entirely by hand gestures via your webcam. Pinch your fingers to fire and move your hand to aim.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
